@@ -34,7 +34,7 @@
 
 
 
-### For file fatih_usta_3 (Car Prices using Different Machine Learning Models)
+### For file fatih_usta_3 (Predicting car prices using different machine learning models)
 ##### In this project, data contains information about different cars and their prices. Objective is to build a model that predicts car prices based on features.
 ##### Steps of handling the project:
 ##### 1) Data Preparation:
